@@ -13,4 +13,4 @@ Dependency packages
 + D3.js
 + C3.js
 
-Thanks you Github and W3C.
+Thank you Github and W3C.
